@@ -1,0 +1,9 @@
+d:\users\nicholas\documents\visual studio 2013\Projects\Steam Text Spammer\Steam Text Spammer\bin\Debug\Steam Text Spammer.exe.config
+d:\users\nicholas\documents\visual studio 2013\Projects\Steam Text Spammer\Steam Text Spammer\bin\Debug\Steam Text Spammer.exe
+d:\users\nicholas\documents\visual studio 2013\Projects\Steam Text Spammer\Steam Text Spammer\bin\Debug\Steam Text Spammer.pdb
+d:\users\nicholas\documents\visual studio 2013\Projects\Steam Text Spammer\Steam Text Spammer\obj\Debug\Steam Text Spammer.csprojResolveAssemblyReference.cache
+d:\users\nicholas\documents\visual studio 2013\Projects\Steam Text Spammer\Steam Text Spammer\obj\Debug\Steam_Text_Spammer.Form1.resources
+d:\users\nicholas\documents\visual studio 2013\Projects\Steam Text Spammer\Steam Text Spammer\obj\Debug\Steam_Text_Spammer.Properties.Resources.resources
+d:\users\nicholas\documents\visual studio 2013\Projects\Steam Text Spammer\Steam Text Spammer\obj\Debug\Steam Text Spammer.csproj.GenerateResource.Cache
+d:\users\nicholas\documents\visual studio 2013\Projects\Steam Text Spammer\Steam Text Spammer\obj\Debug\Steam Text Spammer.exe
+d:\users\nicholas\documents\visual studio 2013\Projects\Steam Text Spammer\Steam Text Spammer\obj\Debug\Steam Text Spammer.pdb
